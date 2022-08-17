@@ -43,5 +43,5 @@ I like to work with people and help to solve problems
   <a href="https://www.linkedin.com/in/jose-daniel-henriques-porto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
   
-<!--
+![Snake animation](https://github.com/jdanielhenriques/jdanielhenriques/blob/output/github-contribution-grid-snake.svg)
 
